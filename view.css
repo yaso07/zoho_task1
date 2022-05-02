@@ -1,0 +1,13 @@
+ 
+.box{
+   position:relative;
+   top:40px;
+   width:70%;
+   padding:40px;
+}
+#newdata{
+   position:relative;
+   top:20px;
+   left:30px;
+   
+}
